@@ -1,0 +1,72 @@
+body  {
+  width: 970px;
+  margin: 0px auto;
+  font-family: Helvetica, Arial;
+}
+#wrapper {
+  width: 970px;
+}
+header {
+
+}
+header img {
+  width: 100px;
+  position: absolute;
+}
+header h1{
+  display: inline-block;
+  margin: 40px 0 0 100px;
+  font-weight: lighter;
+  font-size: 40px;
+}
+header h2 {
+  font-weight: 500;
+  font-size: 25px;
+  margin: 0;
+  padding: 15px 0 10px 25px;
+  background-color: #3C7BAB;
+  color: white;
+}
+.sidepanel {
+  width: 180px;
+}
+.sidepanel a {
+  width: 180px;
+  height: 25px;
+  padding-top: 10px;
+  color: white;
+  margin-top: 5px;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  border-radius: 5px;
+}
+.red {
+  color: red;
+}
+.blue {
+  color: blue;
+}
+hr {
+  margin: 30px 0 30px 0;
+}
+.banner {
+  background-image: url("images/ad_background.png");
+  padding-top: 15px;
+}
+.banner p{
+  color:white;
+  font-size: 20px;
+  text-align: center;
+}
+.banner img {
+  width: 100px;
+  margin-left: 35px
+}
+.banner a {
+  background-color: #00D0E2;
+  display: inline-block;
+  width: 142px;
+  margin: 5px 0 25px 20px;
+  border-radius: 10px;
+}
